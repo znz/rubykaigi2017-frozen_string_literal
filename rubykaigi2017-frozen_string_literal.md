@@ -12,9 +12,13 @@ date
 allotted-time
 :   5m
 
-# Who am I?
+theme
+:   lightning-simple
 
-- One of CRuby (a.k.a MRI) committers
+# self.introduce
+
+- One of Ruby committers
+- Twitter, GitHub: `@znz`
 
 # What's `frozen_string_literal` magic comment
 
